@@ -2,7 +2,7 @@ Heroes of Pymoli
 
 Video Game Analysis
 
-![Fantasy](HeroesOfPymoli/Images/Fantasy.png)
+![Fantasy](HeroesOfPymoli/Images/Fantasy.jpg)
 
 Launching a new video game can be a hit or miss. Heroes of Pymoli has just been released, and we want to understand the typical customer base and the associated profits. Spending, purchase price, and total purchases are analyzed and stratified by gender and age categories. This program is a simple analysis of the Heroes of Pyemoli data collected, and is essential for future marketing decisions and ways to increase profits to its fan base. This could either be implemented when making decisions for video game add-ons or future video game ideas and releases. 
 
