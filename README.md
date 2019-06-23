@@ -1,12 +1,13 @@
-Heroes of Pymoli
+## Heroes of Pymoli
 
-Video Game Analysis
+## Video Game Analysis
 
 ![Fantasy](HeroesOfPymoli/Images/Fantasy.jpg)
 
+### Introduction
 Launching a new video game can be a hit or miss. Heroes of Pymoli has just been released, and we want to understand the typical customer base and the associated profits. Spending, purchase price, and total purchases are analyzed and stratified by gender and age categories. This program is a simple analysis of the Heroes of Pyemoli data collected, and is essential for future marketing decisions and ways to increase profits to its fan base. This could either be implemented when making decisions for video game add-ons or future video game ideas and releases. 
 
-Summary of main findings:
+### Summary of main findings:
 
 1) Most purchases are made for ages 20-24 ($1114 for total purchase value) and most customers are male (about 84%). 
 
